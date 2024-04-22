@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "paradise-foods-obua",
+  "private_key_id": "e2c320aa3f24cb7d1af39574eb82cc3ec69c45a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrJl0oRMT9Xhj7\nj2HE4UYiMf7RffGR0WWv3JDV56+aff2bl07L2/rI4uB0s3ytB58DYlKzGbVxsSDK\nPBa2HTXZCsIHdkMh59hL7EpgPtgnEEvqQJkr1t9TLvN8i5w8BZFPypNCWvlJXekn\nwqx99KkaD+83T0Tk68bCKvip8uDaP8le65CkMcoc34i3grqC9w9LrNe9HRsMUBc+\nqyZm6mHgFEW/oPO28F4jqXmCIwoeUY66rFHKJUcEIBv2KpW1P8DrukD1adS0Dak3\nHArSNCJTmzaTHEKLD/sdFs88TQ4ytJLnqoJRG/MGiNMEeOd3Gk83Maqc8I6b2NeT\nsBATZNgVAgMBAAECggEAFYDKb4bEYTjzVpfbJstO7njtlRCHy1RNvFyv7dAgJf7y\nYBwQkFhhF+A5ZzAt1+d/OQOfdFUkkNY6Um5eRB9DZrONUTawlI/2gwN7DMCYk7/e\nad4X4IQsptzdRqabyIbCjQ3clperfmZIJvC0j1av8FBUM9THySM+Y6LWfzO+wGzS\nhf/fE6/JmWg3dYx5Yy5DA14i/iTARXKn5/AyyO7WfWp92BWTmdozrI10b6kqDdk+\ns4AwRiT5LTvJbcotpUcp+2YADDUxzqZJHPs1Rc1iOk/vskf+9aQEjT36goPKKMRE\nv/NQMCjr97nQk9BloOGDts54eLgEXqxNO4TXt6/x+QKBgQDd6g7+kR0DMFoy5OuM\nV8T8tVri/hlLRRKkfP9eJQUhN0R0tIvfARXyTmQFPX2E5dclMHwzXRGEgXJ20GOZ\nN5SZZnsnlPzUXXZy78pFyaMkGg846lJk1hYNTEmbRzNckV+eAcDsoBbQsTZ9hZt5\nxAO2mvaikxO2h4mUhbB1andKBwKBgQDFcC+Mjdy2OOKUgjE8eyvpH7RwmjYqXr8t\np50lrjoV7twG772aC2uw9INrB9iEkTuHrKu9+QIfF4KYWfWjxnUkVO6nZF3kDPca\nUeFWkXgOtlbjSakurZvH2I7H3wRIVxL/VnVdH3tGQP7AxQmIRfyl6DXUo87hsiqz\ny3ZU8DK2AwKBgQCCS/uh3PJ7/Nf5KhBjxuUSvCkxPqD7YQMhMYN/c50fc6PuIlQ+\nDBUmwIBZ01Dvx0Qbwewq/GpcsuTSfmj8fXXy3AlTpFcPGhGCSukpMMtpVyO491yJ\neGpaRICze4rcvz61N7JfPWAoCOVFrj0rsbu8bCCENHdOpSZS3mxNhMWl4QKBgHHq\nkbTCIUeOOMVA/RGNa799SInzoC8ALcQ0won8JY2EHLVv2/CmiEM4QR8fDsEmXreg\nXBMnOh8gXHx04zLUjcAhtPUmBrpO9L/d4GsnUaMDd8x6MsA48Pn0rCUMOxdWDiL/\nCoZpZKIbXCFzTlWvM9+xxGVlAjfcqaDFUwgc8tVrAoGAVIR5ebbiyaG83v74MM/q\ngOIMBKskO9UvSJYyucbQCM762y1gF4BDuh/SrAqk9KUDrJJe5hVc3ntd9wEqR+2u\noQdFaWr/W8Xs9q9nU5HmylRJnIXyZEqqZ1xXOEIh0gi+RabQhYptr00GZ+GyAv7e\n4Mkb/T1c+qm0kQgXu5eY88w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "paradise-foods@paradise-foods-obua.iam.gserviceaccount.com",
+  "client_id": "116512547899510751245",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/paradise-foods%40paradise-foods-obua.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338027422912",
+    "project_id": "paradise-food-s",
+    "storage_bucket": "paradise-food-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338027422912:android:5cace48c2d7c68e7bb7925",
+        "android_client_info": {
+          "package_name": "com.example.paradise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338027422912-ga464u9ne5v9vsp6rn8jg1ku5n3m55te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZxhmVCjmc6cS0XYP1LjpMaAWZtL-tglg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338027422912-ga464u9ne5v9vsp6rn8jg1ku5n3m55te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
