@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>338027422912-hp9lfmjg50k2ko5vv5cmg74ovg97okjj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.338027422912-hp9lfmjg50k2ko5vv5cmg74ovg97okjj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>338027422912-1r6maefi0lsn2fb0c6a8ctsk2gmjlr1r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-ml9TvOj32kxzqH62cMUu-jW6DtIu_Mo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>338027422912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.paradise</string>
+	<key>PROJECT_ID</key>
+	<string>paradise-food-s</string>
+	<key>STORAGE_BUCKET</key>
+	<string>paradise-food-s.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:338027422912:ios:62ae2716ffc9d678bb7925</string>
+</dict>
+</plist>
